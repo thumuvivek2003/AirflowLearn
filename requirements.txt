@@ -1,0 +1,4 @@
+# Extra packages for the learning DAGs (installed via _PIP_ADDITIONAL_REQUIREMENTS in .env).
+# For real projects you'd bake these into a custom image instead.
+pandas
+requests
